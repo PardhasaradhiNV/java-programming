@@ -1,4 +1,4 @@
-ublic class Birthyear {
+public class Birthyear {
 public static void main(String[] args) {
 int currentYear = 2073;
 int eligibilityAge = 21;
